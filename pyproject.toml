@@ -15,6 +15,9 @@ dependencies = [
   "matplotlib>=3.8,<4",
   "jupyterlab>=4,<5",
   "ipywidgets>=8,<9",
+  "accelerate>=0.26.0",
+  "tensorboard>=2.4.1",
+  "setuptools==65.5.0",
 ]
 
 #[project.optional-dependencies]
